@@ -1,4 +1,4 @@
-package model;
+package com.berezini.model;
 
 import com.berezini.model.Category;
 import com.berezini.model.Directory;

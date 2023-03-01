@@ -1,4 +1,4 @@
-package model;
+package com.berezini.model;
 
 import com.berezini.model.Directory;
 import com.berezini.model.FileSystem;
