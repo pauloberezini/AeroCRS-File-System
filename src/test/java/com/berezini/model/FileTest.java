@@ -1,7 +1,5 @@
 package com.berezini.model;
 
-import com.berezini.model.Category;
-import com.berezini.model.File;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

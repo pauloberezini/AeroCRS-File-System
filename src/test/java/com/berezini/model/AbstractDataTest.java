@@ -1,9 +1,6 @@
 package com.berezini.model;
 
-import com.berezini.model.AbstractData;
 import org.junit.jupiter.api.Test;
-import com.berezini.model.Category;
-import com.berezini.model.File;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AbstractDataTest {

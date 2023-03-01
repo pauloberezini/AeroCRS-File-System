@@ -1,8 +1,5 @@
 package com.berezini.model;
 
-import com.berezini.model.Category;
-import com.berezini.model.Directory;
-import com.berezini.model.File;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
