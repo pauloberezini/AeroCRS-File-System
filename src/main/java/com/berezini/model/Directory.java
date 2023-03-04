@@ -3,7 +3,7 @@ package com.berezini.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Directory extends AbstractData implements Organized {
+public class Directory extends AbstractData implements IOrganized {
     private List<Directory> directories;
     private List<File> files;
 

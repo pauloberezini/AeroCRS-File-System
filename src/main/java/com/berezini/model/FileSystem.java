@@ -1,6 +1,6 @@
 package com.berezini.model;
 
-public class FileSystem implements Organized {
+public class FileSystem implements IOrganized {
     private static FileSystem instance = null;
     private static Directory root;
 
