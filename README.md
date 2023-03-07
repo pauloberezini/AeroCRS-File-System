@@ -1,4 +1,4 @@
-# AeroCRS File System
+# File System
 This project is a simple file system implementation using Java language. It simulates the behavior of a file system, with directories, subdirectories, files, and categories.
 
 ## Link
