@@ -14,11 +14,11 @@ To run this project, follow the steps below:
 
 - Clone the repository:
 ```sh
-git clone https://github.com/pauloberezini/AeroCRS-File-System.git
+git clone https://github.com/pauloberezini/File-System.git
 ```
 Navigate to the project root directory:
 ```sh
-cd AeroCRS-File-System/
+cd File-System/
 ```
 - Build the project with Maven:
 ```sh
@@ -26,7 +26,7 @@ mvn package
 ```
 - Run the project:
 ```sh
-java -cp target/AeroCRS-File-System-1.0-SNAPSHOT.jar com.berezini.controller.MainController
+java -cp target/File-System-1.0-SNAPSHOT.jar com.berezini.controller.MainController
 ```
 ## How to Use
 After running the project, you will see a command-line interface (CLI) where you can execute the available commands. These commands are:
@@ -41,7 +41,7 @@ This project includes JUnit tests for the FileSystem class. To run the tests, fo
 
 - Navigate to the project root directory:
 ```sh
-cd AeroCRS-File-System/
+cd File-System/
 ```
 - Run the tests with Maven:
 ```sh
